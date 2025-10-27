@@ -139,5 +139,3 @@ Adicionar vibração em dispositivos móveis.
 🧑‍💻 Autor
 Feito com ❤️ por Thiago Karpovicz Rodrigues
 📚 Projeto criado para estudo e diversão com JavaScript puro.
-
-<p align="center"> <img src="https://img.shields.io/badge/Feito%20com-JavaScript-yellow?style=for-the-badge&logo=javascript" /> <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" /> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" /> </p> ```
