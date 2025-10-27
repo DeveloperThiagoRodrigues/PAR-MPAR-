@@ -1,7 +1,7 @@
 <h1 align="center">🎮 Jogo Par ou Ímpar – Feito em JavaScript</h1>
 
 <p align="center">
-  <img src="https://github.com/DeveloperThiagoRodrigues/PAR-MPAR-/blob/main/PAR%20ou%20%20%C3%8DMPAR/Assets/fotogame.png" width="800" alt="Banner do Jogo Par ou Ímpar">
+  <img src="https://github.com/DeveloperThiagoRodrigues/PAR-MPAR-/blob/main/PAR%20ou%20%20%C3%8DMPAR/Assets/fotogame.png" width="100%" alt="Banner do Jogo Par ou Ímpar">
 </p>
 
 <p align="center">
