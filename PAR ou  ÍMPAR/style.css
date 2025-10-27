@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    background: url('https://wallpapers.com/images/hd/old-video-game-j4l9c93ra55dtyz6.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    padding: 40px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    }
+
+.container h1 {
+        font-size: 50px;
+        margin-bottom: 20px;
+    }
+    
+.play-btn {
+    background-color: #ffb347;
+    color: white;
+    font-size: 30px;
+    padding: 15px 50px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.play-btn:hover {
+    background-color: #ffa41b;
+    transform: scale(1.05);
+}
+
+.buttons {
+    margin: 30px 0;
+    display: flex;
+    gap: 40px;
+}
+
+p.versus {
+    display: flex;
+    gap: 80px;
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: 70px;
+    color: red;
+}
+
+p.your-score, p.machine-score {
+    font-size: 30px;
+    margin-top: 20px;
+    font-weight: bold;
+    
+}
+
+button.play-btn{
+    font-family: "Oi", serif;
+    color: black;
+}
+
+.selected {
+  background-color: #ffcc00;
+  transform: scale(1.1);
+  transition: 0.2s;
+}
+
+.result {
+  font-size: 1.6rem;      
+  font-weight: bold;     
+  text-align: center;     
+  margin-top: 20px;
+  line-height: 1.5;
+  color: #222;            
+}
+
+.result b {
+  color: #007bff;         
+  font-size: 1.8rem;      
+}
+
+
+button {
+    padding: 30px;
+    font-size: 50px;
+    gap: 20px;
+    margin: 30px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    transition: opacity 0.3s ease-in-out;
+}
+
+button:hover {
+    opacity: 0.5;
+}    
+
+
+#even{
+    background-color: #4CAF50;
+    color: white;
+}
+
+#odd{
+    background-color: #f44336;
+    color: white;
+}

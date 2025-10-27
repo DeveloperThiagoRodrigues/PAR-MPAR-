@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oi&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Par ou Ímpar!</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Par ou Ímpar</h1>
+
+
+        <div class="buttons">
+            <button id="even" onclick="playHuman('even')">&#128074;</button>
+            <p class="versus">X</p>
+            <button id="odd" onclick="playHuman('odd')">&#129306;&#127995;</button>
+        </div>
+
+        <button class="play-btn" onclick="playRandom()">&#127922; Vamos!</button>
+
+        <p class="result"></p>
+        <p class="your-score">Sua pontuação: <span id="human-score">0</span></p>
+        <p class="machine-score">Pontuação da máquina: <span id="machine-score">0</span></p>
+
+
+    </div>
+
+
+</body>
+<script src="/script.js"></script>
+
+</html>
