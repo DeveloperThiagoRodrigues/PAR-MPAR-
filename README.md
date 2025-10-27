@@ -1,7 +1,7 @@
 <h1 align="center">🎮 Jogo Par ou Ímpar – Feito em JavaScript</h1>
 
 <p align="center">
-  <img src="Assets/Captura de tela 2025-10-27 161018.png" width="800" alt="Banner do Jogo Par ou Ímpar">
+  <img src="Assets/fotogame.png" width="800" alt="Banner do Jogo Par ou Ímpar">
 </p>
 
 <p align="center">
